@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 20 11:16:36 2024
-
-@author: GÖKHAN
-"""
-
 import cv2 
 from skimage.filters import sobel
 
